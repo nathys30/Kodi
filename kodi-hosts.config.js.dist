@@ -3,31 +3,31 @@ exports.kodiConfig = [{
     // YOUR_EXTERNAL_PROTOCOL (http or https)
     kodiProtocol: 'http',
     // YOUR_EXTERNAL_IP_ADDRESS
-    kodiIp: '192.168.1.17',
+    kodiIp: '192.168.1.108',
     // YOUR_KODI_PORT
     kodiPort: '8080',
     // YOUR_KODI_USER_NAME
     kodiUser: 'kodi',
     // YOUR_KODI_PASSWORD
-    kodiPassword: 'myKodiPassword'
+    kodiPassword: 'c4fm7ehx'
 }
     // You can use this to specify additonal kodi installation, that you'd like to control.
     // ,{id: 'bedroom', // For example the bedroom, will allow you to create IFTTT sentences like: `okay google bedroom play ..`
     // YOUR_EXTERNAL_PROTOCOL (http or https)
     // kodiProtocol: 'http',
     // // YOUR_EXTERNAL_IP_ADDRESS
-    // kodiIp: '192.168.1.18',
+    // kodiIp: '192.168.1.108',
     // // YOUR_KODI_PORT
     // kodiPort: '8080',
     // // YOUR_KODI_USER_NAME
     // kodiUser: 'kodi',
     // // YOUR_KODI_PASSWORD
-    // kodiPassword: 'myKodiPassword'}
+    // kodiPassword: 'c4fm7ehx'}
 ];
 
 exports.globalConfig = {
     // YOUR_CONNECTION_PASSWORD
-    authToken: 'MyAuthTokenSharedWith_IFTTT_Applet',
+    authToken: 'c4fm7ehx_kodi',
     // YOUR_LOCAL_LISTENING_PORT
     listenerPort: '8099',
     // YOUR_YOUTUBE_API_KEY
